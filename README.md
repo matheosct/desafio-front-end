@@ -24,6 +24,7 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 ## Observações
 * Não usar jQuery. Usar React ou ES6+ vanilla.
 * Você está livre para escolher a estrutura de diretórios da aplicação 
+* Preferencialmente, usar SASS para o CSS.
 * Você não deve utilizar nenhum framework CSS (Bootstrap, Foundation e etc) neste desafio.
 * Os arquivos .json não podem ser alterados
 * Dúvida? Entre em contato por email: daniel.lima@oglobo.com.br
