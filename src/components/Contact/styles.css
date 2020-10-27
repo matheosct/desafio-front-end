@@ -1,0 +1,61 @@
+.contact {
+  height: 765px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background: linear-gradient(90deg, #FFF 50%, var(--color-primary) 50%);
+}
+
+.contact .title-contact {
+  display: flex;
+}
+
+.contact h2 {
+  margin-bottom: 72px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.address {
+  width: 50%;
+  height: 350px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.address .info {
+  font-family: 'Verdana', sans-serif;
+}
+
+.form {
+  width: 50%;
+  height: 420px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  color: #FFF;
+  padding-left: 35px;
+}
+
+.form .btn {
+  width: auto;
+  display: inline-block;
+  font-family: 'Verdana', sans-serif;
+
+  background-color: #000;
+  color: #FFF;
+
+  margin-left: auto;
+  padding: 15px 20px;
+}

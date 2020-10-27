@@ -1,0 +1,20 @@
+.input  {
+  display: flex;
+  flex-direction: column;
+
+  font-family: 'Verdana', sans-serif;
+}
+
+.input input {
+  height: 37px;
+  width: 100%;
+
+  font-size: 18px;
+
+  margin-top: 5px;
+  border: none;
+}
+
+.input #message {
+  height: 115px;
+}

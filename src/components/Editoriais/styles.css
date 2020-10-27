@@ -1,0 +1,27 @@
+.editoriais {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+  padding: 120px 0 50px;
+}
+
+.editorial-topo {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 75px;
+}
+
+.editorial-topo .filters {
+  display: flex;
+}
+
+.editoriais .cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

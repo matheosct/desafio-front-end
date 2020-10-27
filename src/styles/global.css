@@ -1,0 +1,27 @@
+:root {
+  --color-primary: #ce282b;
+
+  font-size: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF;
+  font-family: 'Georgia', sans-serif;
+}
+
+h2 { font-size: 34px; }
+h3 { font-size: 28px; }
+
+.container {
+  width: 1090px;
+}
+
+.container-fluid {
+  width: 1282px;
+}

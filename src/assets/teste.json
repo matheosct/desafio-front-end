@@ -1,0 +1,34 @@
+[
+  {
+      "id": 1,
+      "title": "abc",
+      "data": "xyz",
+      "editoria": "+91 789654123",
+      "texto": "abcyz@gmail.com",
+      "foto": "http://localhost:3001/assets/noticias/3.jpg"
+  },
+  {
+      "id": 2,
+      "title": "def",
+      "data": "uvz",
+      "editoria": "+91 123456987",
+      "texto": "defvu@gmail.com",
+      "foto": "http://localhost:3001/assets/noticias/3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "abc",
+    "data": "xyz",
+    "editoria": "+91 789654123",
+    "texto": "abcyz@gmail.com",
+    "foto": "http://localhost:3001/assets/noticias/3.jpg"
+  },
+  {
+      "id": 4,
+      "title": "def",
+      "data": "uvz",
+      "editoria": "+91 123456987",
+      "texto": "defvu@gmail.com",
+      "foto": "http://localhost:3001/assets/noticias/3.jpg"
+  }
+]
