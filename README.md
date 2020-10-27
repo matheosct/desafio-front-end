@@ -42,3 +42,7 @@ O desafio é realizar o desenvolvimento front-end da homepage de um jornal fict�
 - *Se puder subir o projeto em algum lugar para facilitar a visualização, será um diferencial.*
 
 ## Boa sorte!
+
+
+Para rodar o projeto:
+yarn start
